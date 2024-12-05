@@ -18,4 +18,4 @@ var/
 node_modules/
 
 # Serverless directories
-.serverlessnode_modules/
+.serverless/
